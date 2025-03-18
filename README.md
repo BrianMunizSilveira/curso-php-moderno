@@ -8,7 +8,7 @@ Repositório dedicado aos meus estudos de PHP através do curso **PHP Moderno** 
 
 O curso de **PHP Moderno** é uma introdução abrangente à linguagem PHP, abordando desde conceitos básicos até tópicos mais avançados. O objetivo deste repositório é documentar meu progresso e compartilhar exemplos práticos do que estou aprendendo.
 
-![gif](https://user-images.githubusercontent.com/100821/52362090-1a5bad00-2a40-11e9-9344-e71e6637c78c.gif)
+<img src="https://user-images.githubusercontent.com/100821/52362090-1a5bad00-2a40-11e9-9344-e71e6637c78c.gif" width="300" alt="GIF">
 
 ---
 
@@ -16,6 +16,7 @@ O curso de **PHP Moderno** é uma introdução abrangente à linguagem PHP, abor
 
 O repositório está organizado da seguinte forma:
 
+```bash
 / curso-php-moderno
 ├── scripts-basicos/ # Scripts iniciais de PHP (ex: Olá Mundo!, variáveis, operações matemáticas)
 ├── formularios-html/ # Exemplos de formulários HTML processados com PHP
@@ -23,6 +24,7 @@ O repositório está organizado da seguinte forma:
 ├── projetos/ # Projetos simples desenvolvidos durante o curso
 ├── anotacoes/ # Anotações e resumos sobre os conceitos aprendidos
 └── README.md # Este arquivo
+```
 
 ---
 
@@ -120,4 +122,5 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LIC
 ---
 
 Feito com ❤️ por [Brian](https://github.com/BrianMunizSilveira).
-![gif](https://mirror.math.princeton.edu/pub/php/images/ele-running.gif)
+<br />
+<img src="https://mirror.math.princeton.edu/pub/php/images/ele-running.gif" alt="GIF Elepahnt">
