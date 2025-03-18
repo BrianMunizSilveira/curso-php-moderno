@@ -1,2 +1,123 @@
-# curso-php-moderno
-Curso de PHP Moderno: Módulo 01 [40 HORAS] (Cursoemvideo)
+# 🐘 Curso de PHP Moderno - Gustavo Guanabara
+
+Repositório dedicado aos meus estudos de PHP através do curso **PHP Moderno** ministrado por Gustavo Guanabara. Aqui, você encontrará scripts, exercícios e projetos desenvolvidos durante o curso, além de anotações e dicas que estou aprendendo ao longo do caminho.
+
+---
+
+## 🚀 Sobre o Curso
+
+O curso de **PHP Moderno** é uma introdução abrangente à linguagem PHP, abordando desde conceitos básicos até tópicos mais avançados. O objetivo deste repositório é documentar meu progresso e compartilhar exemplos práticos do que estou aprendendo.
+
+![gif](https://user-images.githubusercontent.com/100821/52362090-1a5bad00-2a40-11e9-9344-e71e6637c78c.gif)
+
+---
+
+## 📂 Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
+/ curso-php-moderno
+├── scripts-basicos/ # Scripts iniciais de PHP (ex: Olá Mundo!, variáveis, operações matemáticas)
+├── formularios-html/ # Exemplos de formulários HTML processados com PHP
+├── estruturas-controle/ # Exemplos de condicionais e loops
+├── projetos/ # Projetos simples desenvolvidos durante o curso
+├── anotacoes/ # Anotações e resumos sobre os conceitos aprendidos
+└── README.md # Este arquivo
+
+---
+
+## 🛠️ Como Usar
+
+Para executar os scripts e projetos deste repositório, siga os passos abaixo:
+
+1. **Instale o PHP**: Certifique-se de que o PHP está instalado na sua máquina. Você pode verificar a instalação executando o comando:
+```bash
+php -v
+```
+
+Se não tiver o PHP instalado, siga as intruções no [site oficial do PHP](https://www.php.net/manual/pt_BR/)
+
+2. **Clone o Repositório:**
+```bash
+git clone https://github.com/BrianMunizSilveira/curso-php-moderno.git
+cd curso-php-moderno 
+```
+
+3. **Execute os Scripts:**
+ - Navegue até a pasta do script que deseja executar.
+ - Use o comando php para rodar o arquivo PHP. Por exemplo:
+```bash
+php scripts-basicos/ola-mundo.php
+```
+
+4. **Servidor Local (opcional):**
+
+- Para scripts que envolvem formulários HTML ou requisições HTTP, você pode usar o servidor embutido do PHP:
+
+```bash
+php -S localhost:8000
+```
+
+Acesse http://localhost:8000 no seu navegador.
+
+---
+
+## 📝 Anotações e Aprendizados
+
+Aqui estão alguns dos tópicos que estou estudando e praticando:
+
+- **Variáveis e Tipos de Dados:** Como declarar e usar variáveis em PHP.
+
+- **Estruturas de Controle:** Condicionais (``if``, ``else``, ``switch``) e loops (``for``, ``while``).
+
+- **Funções:** Como criar e usar funções em PHP.
+
+- **Formulários HTML:** Processamento de dados de formulários com PHP.
+
+- **Boas Práticas:** Organização de código, indentação e comentários.
+
+---
+
+## **🚧 Projetos**
+
+Em breve serão adicionados projetos que irei desenvolver
+
+--- 
+
+## **📚 Recursos Úteis**
+
+- [Documentação Oficial do PHP](https://www.php.net/manual/pt_BR/)
+- [Curso de PHP Moderno - Gustavo Guanabara](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/)
+- [GitHub Guides](https://docs.github.com/pt)
+ 
+---
+
+## **🤝 Como Contribuir**
+
+Se você quiser contribuir com este repositório, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Toda contribuição é bem-vinda!
+
+1. Faça um fork do repositório. 
+2. Crie uma branch para sua contribuição:
+```bash
+git checkout -b minha-contribuicao
+```
+3. Commit suas alterações
+```bash
+git commit -m "Adicionando novo script de exemplo"
+```
+4. Envie para o repositório remoto:
+```bash
+git push origin minha-contribuicao
+```
+5. Abra um pull request no GitHub.
+
+---
+
+## **📄 Licença**
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+---
+
+Feito com ❤️ por [Brian](https://github.com/BrianMunizSilveira).
+![gif](https://mirror.math.princeton.edu/pub/php/images/ele-running.gif)
