@@ -1,12 +1,12 @@
 # 🐘 Curso de PHP Moderno - Gustavo Guanabara
 
-Repositório dedicado aos meus estudos de PHP através do curso **PHP Moderno** ministrado por Gustavo Guanabara. Aqui, você encontrará scripts, exercícios e projetos desenvolvidos durante o curso, além de anotações e dicas que estou aprendendo ao longo do caminho.
+Repositório dedicado aos meus estudos de **[PHP](https://pt.wikipedia.org/wiki/PHP)** através do curso **[PHP Moderno](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/)** ministrado por **[Gustavo Guanabara](https://github.com/gustavoguanabara)**. Aqui, você encontrará scripts, exercícios e projetos desenvolvidos durante o curso, além de anotações e dicas que estou aprendendo ao longo do caminho.
 
 ---
 
 ## 🚀 Sobre o Curso
 
-O curso de **PHP Moderno** é uma introdução abrangente à linguagem PHP, abordando desde conceitos básicos até tópicos mais avançados. O objetivo deste repositório é documentar meu progresso e compartilhar exemplos práticos do que estou aprendendo.
+O curso de **[PHP Moderno](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/)** é uma introdução abrangente à linguagem **[PHP](https://pt.wikipedia.org/wiki/PHP)**, abordando desde conceitos básicos até tópicos mais avançados. O objetivo deste repositório é documentar meu progresso e compartilhar exemplos práticos do que estou aprendendo.
 
 <img src="https://user-images.githubusercontent.com/100821/52362090-1a5bad00-2a40-11e9-9344-e71e6637c78c.gif" width="300" alt="GIF">
 
@@ -18,11 +18,9 @@ O repositório está organizado da seguinte forma:
 
 ```bash
 / curso-php-moderno
-├── scripts-basicos/ # Scripts iniciais de PHP (ex: Olá Mundo!, variáveis, operações matemáticas)
-├── formularios-html/ # Exemplos de formulários HTML processados com PHP
-├── estruturas-controle/ # Exemplos de condicionais e loops
-├── projetos/ # Projetos simples desenvolvidos durante o curso
+├── exercicios/ # Exercícios praticados em aulas do curso
 ├── anotacoes/ # Anotações e resumos sobre os conceitos aprendidos
+├── projetos/ # Projetos simples desenvolvidos durante o curso (inexistente por enquanto)
 └── README.md # Este arquivo
 ```
 
