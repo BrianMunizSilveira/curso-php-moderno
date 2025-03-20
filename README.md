@@ -19,10 +19,21 @@ O repositório está organizado da seguinte forma:
 ```bash
 / curso-php-moderno
 ├── exercicios/ # Exercícios praticados em aulas do curso
+└── ex000/           # Exemplo de pasta de exercício
+│       ├── 000-observacoes.md  # Anotações e observações sobre a aula relacionada ao exercício
+│       └── ola-mundo.php       # Exercício proposto
 ├── anotacoes/ # Anotações e resumos sobre os conceitos aprendidos
 ├── projetos/ # Projetos simples desenvolvidos durante o curso (inexistente por enquanto)
 └── README.md # Este arquivo
 ```
+
+---
+
+### 📝 Observações das Aulas
+
+Cada exercício possui um arquivo **`.md`** com observações e anotações relacionadas à aula. Por exemplo, em **`exercicios/ex000/`**, você encontrará o arquivo **`000-observacoes.md`** contendo detalhes sobre o conteúdo aprendido. Essa estrutura se repete para todos os exercícios, organizando as anotações de maneira consistente.
+
+[![Brent](https://media.tenor.com/myWhE0y5rTsAAAAM/brent-rambo-thumbs-up.gif)
 
 ---
 
