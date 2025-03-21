@@ -1,6 +1,6 @@
 # 🐘 Curso de PHP Moderno - Gustavo Guanabara
 
-Repositório dedicado aos meus estudos de **<a href="https://pt.wikipedia.org/wiki/PHP" target="_blank">PHP</a>** através do curso **[PHP Moderno](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/)** ministrado por **[Gustavo Guanabara](https://github.com/gustavoguanabara)**. Aqui, você encontrará scripts, exercícios e projetos desenvolvidos durante o curso, além de anotações e dicas que estou aprendendo ao longo do caminho.
+Repositório dedicado aos meus estudos de **[PHP](https://pt.wikipedia.org/wiki/PHP)** através do curso **[PHP Moderno](https://www.cursoemvideo.com/curso/curso-de-php-moderno-modulo-01/)** ministrado por **[Gustavo Guanabara](https://github.com/gustavoguanabara)**. Aqui, você encontrará scripts, exercícios e projetos desenvolvidos durante o curso, além de anotações e dicas que estou aprendendo ao longo do caminho.
 
 ---
 
