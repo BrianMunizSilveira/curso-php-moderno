@@ -33,7 +33,7 @@ O repositório está organizado da seguinte forma:
 
 Cada exercício possui um arquivo **`.md`** com observações e anotações relacionadas à aula. Por exemplo, em **`exercicios/ex000/`**, você encontrará o arquivo **`000-observacoes.md`** contendo detalhes sobre o conteúdo aprendido. Essa estrutura se repete para todos os exercícios, organizando as anotações de maneira consistente.
 
-[![Brent](https://media.tenor.com/myWhE0y5rTsAAAAM/brent-rambo-thumbs-up.gif)
+![Brent](https://media.tenor.com/myWhE0y5rTsAAAAM/brent-rambo-thumbs-up.gif)
 
 ---
 
